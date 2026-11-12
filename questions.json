@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -9,451 +8,451 @@
   },
   {
     "id": 2,
-    "category": "Geography",
-    "question": "Which country has the longest coastline in the world?",
-    "options": ["Australia", "Canada", "Russia", "Indonesia"],
-    "answer": "Canada"
-  },
-  {
-    "id": 3,
-    "category": "History",
-    "question": "In what year did the Apollo 11 mission land humans on the Moon?",
-    "options": ["1967", "1969", "1971", "1973"],
-    "answer": "1969"
-  },
-  {
-    "id": 4,
-    "category": "Pop Culture",
-    "question": "Which fictional city is Batman's home?",
-    "options": ["Metropolis", "Gotham City", "Star City", "Central City"],
-    "answer": "Gotham City"
-  },
-  {
-    "id": 5,
-    "category": "Nature",
-    "question": "What is the fastest land animal on Earth?",
-    "options": ["Lion", "Pronghorn", "Cheetah", "Gazelle"],
-    "answer": "Cheetah"
-  },
-  {
-    "id": 6,
     "category": "Science",
     "question": "What planet is known as the Red Planet?",
     "options": ["Venus", "Mars", "Jupiter", "Saturn"],
     "answer": "Mars"
   },
   {
-    "id": 7,
-    "category": "Geography",
-    "question": "What is the capital city of Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-    "answer": "Canberra"
-  },
-  {
-    "id": 8,
-    "category": "History",
-    "question": "Who was the first President of the United States?",
-    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
-    "answer": "George Washington"
-  },
-  {
-    "id": 9,
-    "category": "Technology",
-    "question": "What does 'HTTP' stand for in website addresses?",
-    "options": ["HyperText Transfer Protocol", "High Transfer Text Program", "Hyperlink Transmission Test Protocol", "HyperText Technical Process"],
-    "answer": "HyperText Transfer Protocol"
-  },
-  {
-    "id": 10,
-    "category": "Literature",
-    "question": "Who wrote the play 'Romeo and Juliet'?",
-    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-    "answer": "William Shakespeare"
-  },
-  {
-    "id": 11,
+    "id": 3,
     "category": "Science",
     "question": "What is the center of an atom called?",
     "options": ["Electron", "Proton", "Nucleus", "Neutron"],
     "answer": "Nucleus"
   },
   {
-    "id": 12,
-    "category": "Sports",
-    "question": "How many players are on the field for a soccer team during a match?",
-    "options": ["9", "10", "11", "12"],
-    "answer": "11"
-  },
-  {
-    "id": 13,
-    "category": "Geography",
-    "question": "Which ocean is the largest by surface area?",
-    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-    "answer": "Pacific Ocean"
-  },
-  {
-    "id": 14,
-    "category": "Music",
-    "question": "Which band released the hit song 'Bohemian Rhapsody'?",
-    "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
-    "answer": "Queen"
-  },
-  {
-    "id": 15,
-    "category": "Nature",
-    "question": "What is the tallest tree species in the world?",
-    "options": ["Oak", "Pine", "Redwood", "Maple"],
-    "answer": "Redwood"
-  },
-  {
-    "id": 16,
+    "id": 4,
     "category": "Science",
     "question": "What gas do plants absorb from the atmosphere for photosynthesis?",
     "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
     "answer": "Carbon Dioxide"
   },
   {
-    "id": 17,
-    "category": "History",
-    "question": "In which ancient civilization were the great pyramids built?",
-    "options": ["Ancient Greece", "Ancient Rome", "Ancient Egypt", "Mesopotamia"],
-    "answer": "Ancient Egypt"
-  },
-  {
-    "id": 18,
-    "category": "Technology",
-    "question": "Who co-founded Apple Computer alongside Steve Wozniak?",
-    "options": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
-    "answer": "Steve Jobs"
-  },
-  {
-    "id": 19,
-    "category": "Art",
-    "question": "Who painted the Mona Lisa?",
-    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
-    "answer": "Leonardo da Vinci"
-  },
-  {
-    "id": 20,
-    "category": "Geography",
-    "question": "What is the smallest country in the world by area?",
-    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
-    "answer": "Vatican City"
-  },
-  {
-    "id": 21,
+    "id": 5,
     "category": "Science",
     "question": "What is the hardest natural substance on Earth?",
     "options": ["Gold", "Iron", "Diamond", "Platinum"],
     "answer": "Diamond"
   },
   {
-    "id": 22,
-    "category": "Pop Culture",
-    "question": "In the movie 'The Matrix', what color pill does Neo take?",
-    "options": ["Blue", "Red", "Green", "Yellow"],
-    "answer": "Red"
-  },
-  {
-    "id": 23,
-    "category": "History",
-    "question": "The Titanic sank in the Atlantic Ocean after hitting what in 1912?",
-    "options": ["A reef", "An iceberg", "A ship", "A storm"],
-    "answer": "An iceberg"
-  },
-  {
-    "id": 24,
-    "category": "Nature",
-    "question": "What is a baby kangaroo called?",
-    "options": ["Cub", "Calf", "Joey", "Pup"],
-    "answer": "Joey"
-  },
-  {
-    "id": 25,
+    "id": 6,
     "category": "Science",
     "question": "How many bones are in the adult human body?",
     "options": ["186", "206", "226", "246"],
     "answer": "206"
   },
   {
-    "id": 26,
-    "category": "Geography",
-    "question": "Mount Everest is located in which mountain range?",
-    "options": ["Andes", "Rocky Mountains", "Alps", "Himalayas"],
-    "answer": "Himalayas"
-  },
-  {
-    "id": 27,
-    "category": "Literature",
-    "question": "Who wrote the 'Harry Potter' book series?",
-    "options": ["J.R.R. Tolkien", "J.K. Rowling", "C.S. Lewis", "Stephen King"],
-    "answer": "J.K. Rowling"
-  },
-  {
-    "id": 28,
-    "category": "Technology",
-    "question": "What does CPU stand for in computer hardware?",
-    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Utility"],
-    "answer": "Central Processing Unit"
-  },
-  {
-    "id": 29,
-    "category": "Sports",
-    "question": "In which sport would you perform a slam dunk?",
-    "options": ["Tennis", "Basketball", "Golf", "Baseball"],
-    "answer": "Basketball"
-  },
-  {
-    "id": 30,
+    "id": 7,
     "category": "Science",
     "question": "What is the chemical formula for water?",
     "options": ["CO2", "H2O", "NaCl", "O2"],
     "answer": "H2O"
   },
   {
-    "id": 31,
-    "category": "History",
-    "question": "Who was the second President of the United States?",
-    "options": ["John Adams", "Thomas Jefferson", "James Madison", "Benjamin Franklin"],
-    "answer": "John Adams"
-  },
-  {
-    "id": 32,
-    "category": "Geography",
-    "question": "Which African country has the largest population?",
-    "options": ["Egypt", "South Africa", "Nigeria", "Kenya"],
-    "answer": "Nigeria"
-  },
-  {
-    "id": 33,
-    "category": "Music",
-    "question": "How many strings does a standard guitar have?",
-    "options": ["4", "5", "6", "8"],
-    "answer": "6"
-  },
-  {
-    "id": 34,
-    "category": "Nature",
-    "question": "What is the primary diet of a giant panda?",
-    "options": ["Meat", "Bamboo", "Insects", "Fish"],
-    "answer": "Bamboo"
-  },
-  {
-    "id": 35,
-    "category": "Science",
-    "question": "What planet is closest to the Sun?",
-    "options": ["Venus", "Earth", "Mercury", "Mars"],
-    "answer": "Mercury"
-  },
-  {
-    "id": 36,
-    "category": "Pop Culture",
-    "question": "What is the name of Mickey Mouse's pet dog?",
-    "options": ["Goofy", "Pluto", "Bolt", "Snoopy"],
-    "answer": "Pluto"
-  },
-  {
-    "id": 37,
-    "category": "History",
-    "question": "In what year did World War II end?",
-    "options": ["1943", "1945", "1950", "1939"],
-    "answer": "1945"
-  },
-  {
-    "id": 38,
-    "category": "Technology",
-    "question": "Which programming language shares its name with a type of snake?",
-    "options": ["Java", "Python", "C++", "Ruby"],
-    "answer": "Python"
-  },
-  {
-    "id": 39,
-    "category": "Literature",
-    "question": "Who wrote 'The Hobbit'?",
-    "options": ["J.R.R. Tolkien", "George R.R. Martin", "C.S. Lewis", "Roald Dahl"],
-    "answer": "J.R.R. Tolkien"
-  },
-  {
-    "id": 40,
-    "category": "Geography",
-    "question": "What is the capital of Japan?",
-    "options": ["Seoul", "Beijing", "Tokyo", "Kyoto"],
-    "answer": "Tokyo"
-  },
-  {
-    "id": 41,
+    "id": 8,
     "category": "Science",
     "question": "What is the speed of light in a vacuum approximately?",
     "options": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "30,000 km/s"],
     "answer": "300,000 km/s"
   },
   {
-    "id": 42,
-    "category": "Sports",
-    "question": "How many holes are played in a standard round of golf?",
-    "options": ["9", "12", "18", "21"],
-    "answer": "18"
-  },
-  {
-    "id": 43,
-    "category": "Nature",
-    "question": "What animal is known as the 'Ship of the Desert'?",
-    "options": ["Elephant", "Horse", "Camel", "Donkey"],
-    "answer": "Camel"
-  },
-  {
-    "id": 44,
-    "category": "Art",
-    "question": "Which artist painted 'The Starry Night'?",
-    "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
-    "answer": "Vincent van Gogh"
-  },
-  {
-    "id": 45,
+    "id": 9,
     "category": "Science",
     "question": "Which blood type is known as the universal donor?",
     "options": ["A", "B", "AB", "O negative"],
     "answer": "O negative"
   },
   {
-    "id": 46,
-    "category": "Geography",
-    "question": "Which desert is the largest hot desert in the world?",
-    "options": ["Gobi Desert", "Kalahari Desert", "Sahara Desert", "Mojave Desert"],
-    "answer": "Sahara Desert"
-  },
-  {
-    "id": 47,
-    "category": "History",
-    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
-    "options": ["Amelia Earhart", "Harriet Quimby", "Bessie Coleman", "Sally Ride"],
-    "answer": "Amelia Earhart"
-  },
-  {
-    "id": 48,
-    "category": "Pop Culture",
-    "question": "In the Marvel Cinematic Universe, what is Thor's hammer called?",
-    "options": ["Stormbreaker", "Mjolnir", "Gungnir", "Hofund"],
-    "answer": "Mjolnir"
-  },
-  {
-    "id": 49,
-    "category": "Technology",
-    "question": "What does 'WWW' stand for in computer networking?",
-    "options": ["World Wide Web", "Wide Web World", "Web World Wide", "World Wide Wireless"],
-    "answer": "World Wide Web"
-  },
-  {
-    "id": 50,
+    "id": 10,
     "category": "Science",
     "question": "What is the powerhouse of the cell?",
     "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
     "answer": "Mitochondria"
   },
   {
-    "id": 51,
+    "id": 11,
+    "category": "Science",
+    "question": "What is the chemical symbol for table salt?",
+    "options": ["NaCl", "KCl", "H2SO4", "CO2"],
+    "answer": "NaCl"
+  },
+  {
+    "id": 12,
+    "category": "Science",
+    "question": "At what temperature does water freeze in Fahrenheit?",
+    "options": ["0°F", "32°F", "100°F", "212°F"],
+    "answer": "32°F"
+  },
+  {
+    "id": 13,
+    "category": "Science",
+    "question": "Which planet in our solar system has the most moons?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 14,
+    "category": "Science",
+    "question": "What is the primary gas found in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 15,
+    "category": "Science",
+    "question": "What subatomic particle has a positive electrical charge?",
+    "options": ["Electron", "Neutron", "Proton", "Photon"],
+    "answer": "Proton"
+  },
+  {
+    "id": 16,
+    "category": "Science",
+    "question": "What force keeps objects anchored to the Earth?",
+    "options": ["Magnetism", "Gravity", "Friction", "Tension"],
+    "answer": "Gravity"
+  },
+  {
+    "id": 17,
+    "category": "Science",
+    "question": "Which organ in the human body is responsible for filtering blood?",
+    "options": ["Heart", "Liver", "Kidneys", "Lungs"],
+    "answer": "Kidneys"
+  },
+  {
+    "id": 18,
+    "category": "Science",
+    "question": "What is the study of plant life called?",
+    "options": ["Zoology", "Botany", "Genetics", "Entomology"],
+    "answer": "Botany"
+  },
+  {
+    "id": 19,
+    "category": "Science",
+    "question": "Which element has the atomic number 1?",
+    "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "question": "What is the measured path of an object revolving around another called?",
+    "options": ["Axis", "Orbit", "Trajectory", "Vector"],
+    "answer": "Orbit"
+  },
+  {
+    "id": 21,
+    "category": "Geography",
+    "question": "Which country has the longest coastline in the world?",
+    "options": ["Australia", "Canada", "Russia", "Indonesia"],
+    "answer": "Canada"
+  },
+  {
+    "id": 22,
+    "category": "Geography",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 23,
+    "category": "Geography",
+    "question": "Which ocean is the largest by surface area?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "question": "What is the smallest country in the world by area?",
+    "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+    "answer": "Vatican City"
+  },
+  {
+    "id": 25,
+    "category": "Geography",
+    "question": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Rocky Mountains", "Alps", "Himalayas"],
+    "answer": "Himalayas"
+  },
+  {
+    "id": 26,
+    "category": "Geography",
+    "question": "Which African country has the largest population?",
+    "options": ["Egypt", "South Africa", "Nigeria", "Kenya"],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "question": "What is the capital of Japan?",
+    "options": ["Seoul", "Beijing", "Tokyo", "Kyoto"],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 28,
     "category": "Geography",
     "question": "Which river is the longest in the world?",
     "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
     "answer": "Nile River"
   },
   {
-    "id": 52,
-    "category": "History",
-    "question": "The ancient city of Rome was built on how many hills?",
-    "options": ["5", "7", "9", "12"],
-    "answer": "7"
-  },
-  {
-    "id": 53,
-    "category": "Music",
-    "question": "Which classical composer became completely deaf later in life?",
-    "options": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Frédéric Chopin"],
-    "answer": "Ludwig van Beethoven"
-  },
-  {
-    "id": 54,
-    "category": "Nature",
-    "question": "What is the largest mammal on Earth?",
-    "options": ["African Elephant", "Blue Whale", "Sperm Whale", "Giraffe"],
-    "answer": "Blue Whale"
-  },
-  {
-    "id": 55,
-    "category": "Science",
-    "question": "What is the chemical element with the symbol 'Na'?",
-    "options": ["Nitrogen", "Sodium", "Neon", "Nickel"],
-    "answer": "Sodium"
-  },
-  {
-    "id": 56,
-    "category": "Pop Culture",
-    "question": "What is the name of the fictional wizarding school in Harry Potter?",
-    "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
-    "answer": "Hogwarts"
-  },
-  {
-    "id": 57,
-    "category": "Sports",
-    "question": "How many players are on the ice for one team in an ice hockey game (excluding the goalie)?",
-    "options": ["4", "5", "6", "7"],
-    "answer": "5"
-  },
-  {
-    "id": 58,
-    "category": "Technology",
-    "question": "What company developed the Windows operating system?",
-    "options": ["Apple", "IBM", "Microsoft", "Google"],
-    "answer": "Microsoft"
-  },
-  {
-    "id": 59,
-    "category": "Literature",
-    "question": "Who wrote the classic novel 'Pride and Prejudice'?",
-    "options": ["Charlotte Brontë", "Jane Austen", "Emily Brontë", "Virginia Woolf"],
-    "answer": "Jane Austen"
-  },
-  {
-    "id": 60,
+    "id": 29,
     "category": "Geography",
     "question": "What is the capital of Canada?",
     "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
     "answer": "Ottawa"
   },
   {
-    "id": 61,
-    "category": "Science",
-    "question": "At what temperature are Celsius and Fahrenheit equal?",
-    "options": ["0", "-40", "32", "100"],
-    "answer": "-40"
+    "id": 30,
+    "category": "Geography",
+    "question": "Which country is shaped like a giant boot?",
+    "options": ["Spain", "Greece", "Italy", "France"],
+    "answer": "Italy"
   },
   {
-    "id": 62,
+    "id": 31,
+    "category": "Geography",
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "id": 32,
+    "category": "Geography",
+    "question": "In which country would you find the ancient city of Machu Picchu?",
+    "options": ["Chile", "Peru", "Colombia", "Argentina"],
+    "answer": "Peru"
+  },
+  {
+    "id": 33,
+    "category": "Geography",
+    "question": "What is the capital of South Korea?",
+    "options": ["Tokyo", "Pyongyang", "Seoul", "Bangkok"],
+    "answer": "Seoul"
+  },
+  {
+    "id": 34,
+    "category": "Geography",
+    "question": "Which US state has the longest coastline?",
+    "options": ["California", "Florida", "Alaska", "Texas"],
+    "answer": "Alaska"
+  },
+  {
+    "id": 35,
+    "category": "Geography",
+    "question": "What is the official language of Brazil?",
+    "options": ["Spanish", "Portuguese", "French", "English"],
+    "answer": "Portuguese"
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "question": "Which European city is built entirely on water across numerous islands and canals?",
+    "options": ["Amsterdam", "Venice", "Stockholm", "Copenhagen"],
+    "answer": "Venice"
+  },
+  {
+    "id": 37,
+    "category": "Geography",
+    "question": "What is the highest mountain peak in North America?",
+    "options": ["Mount Rainier", "Mount Denali", "Mount Logan", "Mount Whitney"],
+    "answer": "Mount Denali"
+  },
+  {
+    "id": 38,
+    "category": "Geography",
+    "question": "Which country spans across both Europe and Asia?",
+    "options": ["Russia", "Egypt", "Brazil", "Australia"],
+    "answer": "Russia"
+  },
+  {
+    "id": 39,
+    "category": "Geography",
+    "question": "What is the capital of New Zealand?",
+    "options": ["Auckland", "Sydney", "Wellington", "Christchurch"],
+    "answer": "Wellington"
+  },
+  {
+    "id": 40,
+    "category": "Geography",
+    "question": "Which African country is known as the Land of a Thousand Hills?",
+    "options": ["Kenya", "Rwanda", "Uganda", "Tanzania"],
+    "answer": "Rwanda"
+  },
+  {
+    "id": 41,
+    "category": "History",
+    "question": "In what year did the Apollo 11 mission land humans on the Moon?",
+    "options": ["1967", "1969", "1971", "1973"],
+    "answer": "1969"
+  },
+  {
+    "id": 42,
+    "category": "History",
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "answer": "George Washington"
+  },
+  {
+    "id": 43,
+    "category": "History",
+    "question": "In which ancient civilization were the great pyramids built?",
+    "options": ["Ancient Greece", "Ancient Rome", "Ancient Egypt", "Mesopotamia"],
+    "answer": "Ancient Egypt"
+  },
+  {
+    "id": 44,
+    "category": "History",
+    "question": "The Titanic sank in the Atlantic Ocean after hitting what in 1912?",
+    "options": ["A reef", "An iceberg", "A ship", "A storm"],
+    "answer": "An iceberg"
+  },
+  {
+    "id": 45,
+    "category": "History",
+    "question": "Who was the second President of the United States?",
+    "options": ["John Adams", "Thomas Jefferson", "James Madison", "Benjamin Franklin"],
+    "answer": "John Adams"
+  },
+  {
+    "id": 46,
+    "category": "History",
+    "question": "In what year did World War II end?",
+    "options": ["1943", "1945", "1950", "1939"],
+    "answer": "1945"
+  },
+  {
+    "id": 47,
     "category": "History",
     "question": "In what year did the Berlin Wall fall?",
     "options": ["1987", "1989", "1991", "1993"],
     "answer": "1989"
   },
   {
+    "id": 48,
+    "category": "History",
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Mikhail Gorbachev"],
+    "answer": "Joseph Stalin"
+  },
+  {
+    "id": 49,
+    "category": "History",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": ["Amelia Earhart", "Harriet Quimby", "Bessie Coleman", "Sally Ride"],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": 50,
+    "category": "History",
+    "question": "What year did the American Declaration of Independence get adopted?",
+    "options": ["1774", "1776", "1781", "1789"],
+    "answer": "1776"
+  },
+  {
+    "id": 51,
+    "category": "History",
+    "question": "Who was the first emperor of the Roman Empire?",
+    "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
+    "answer": "Augustus"
+  },
+  {
+    "id": 52,
+    "category": "History",
+    "question": "In what year did World War I begin?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "answer": "1914"
+  },
+  {
+    "id": 53,
+    "category": "History",
+    "question": "Who wrote the 'I Have a Dream' speech delivered in 1963?",
+    "options": ["Malcolm X", "Rosa Parks", "Martin Luther King Jr.", "John Lewis"],
+    "answer": "Martin Luther King Jr."
+  },
+  {
+    "id": 54,
+    "category": "History",
+    "question": "Which ancient empire was ruled by figures like Xerxes and Cyrus the Great?",
+    "options": ["Roman Empire", "Persian Empire", "Ottoman Empire", "Byzantine Empire"],
+    "answer": "Persian Empire"
+  },
+  {
+    "id": 55,
+    "category": "History",
+    "question": "What year did the French Revolution begin with the storming of the Bastille?",
+    "options": ["1776", "1789", "1804", "1815"],
+    "answer": "1789"
+  },
+  {
+    "id": 56,
+    "category": "History",
+    "question": "Who was the famous British Prime Minister during most of World War II?",
+    "options": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Margaret Thatcher"],
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": 57,
+    "category": "History",
+    "question": "Which explorer is credited with completing the first circumnavigation of the Earth?",
+    "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Marco Polo"],
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "id": 58,
+    "category": "History",
+    "question": "In what year did the Soviet Union officially dissolve?",
+    "options": ["1985", "1989", "1991", "1995"],
+    "answer": "1991"
+  },
+  {
+    "id": 59,
+    "category": "History",
+    "question": "What ancient structure was built primarily as protection against nomadic invasions from the north?",
+    "options": ["The Colosseum", "The Great Wall of China", "Machu Picchu", "Petra"],
+    "answer": "The Great Wall of China"
+  },
+  {
+    "id": 60,
+    "category": "History",
+    "question": "Who was the last pharaoh of Ancient Egypt?",
+    "options": ["Nefertiti", "Cleopatra VII", "Hatshepsut", "Ankhesenamun"],
+    "answer": "Cleopatra VII"
+  },
+  {
+    "id": 61,
+    "category": "Pop Culture",
+    "question": "Which fictional city is Batman's home?",
+    "options": ["Metropolis", "Gotham City", "Star City", "Central City"],
+    "answer": "Gotham City"
+  },
+  {
+    "id": 62,
+    "category": "Pop Culture",
+    "question": "In the movie 'The Matrix', what color pill does Neo take?",
+    "options": ["Blue", "Red", "Green", "Yellow"],
+    "answer": "Red"
+  },
+  {
     "id": 63,
-    "category": "Nature",
-    "question": "Which flightless bird is native to New Zealand and shares its name with a fruit?",
-    "options": ["Cassowary", "Emu", "Kiwi", "Penguin"],
-    "answer": "Kiwi"
+    "category": "Pop Culture",
+    "question": "What is the name of Mickey Mouse's pet dog?",
+    "options": ["Goofy", "Pluto", "Bolt", "Snoopy"],
+    "answer": "Pluto"
   },
   {
     "id": 64,
-    "category": "Art",
-    "question": "Who sculpted the famous statue of David in the 16th century?",
-    "options": ["Donatello", "Michelangelo", "Raphael", "Leonardo da Vinci"],
-    "answer": "Michelangelo"
+    "category": "Pop Culture",
+    "question": "In the Marvel Cinematic Universe, what is Thor's hammer called?",
+    "options": ["Stormbreaker", "Mjolnir", "Gungnir", "Hofund"],
+    "answer": "Mjolnir"
   },
   {
     "id": 65,
-    "category": "Science",
-    "question": "What is the study of weather called?",
-    "options": ["Geology", "Meteorology", "Astronomy", "Ecology"],
-    "answer": "Meteorology"
+    "category": "Pop Culture",
+    "question": "What is the name of the fictional wizarding school in Harry Potter?",
+    "options": ["Beauxbatons", "Durmstrang", "Hogwarts", "Ilvermorny"],
+    "answer": "Hogwarts"
   },
   {
     "id": 66,
@@ -464,240 +463,940 @@
   },
   {
     "id": 67,
-    "category": "Geography",
-    "question": "Which European city is divided by numerous canals and famous for its gondolas?",
-    "options": ["Amsterdam", "Venice", "Vienna", "Prague"],
-    "answer": "Venice"
-  },
-  {
-    "id": 68,
-    "category": "History",
-    "question": "Who was the leader of the Soviet Union during World War II?",
-    "options": ["Vladimir Lenin", "Joseph Stalin", "Nikita Khrushchev", "Mikhail Gorbachev"],
-    "answer": "Joseph Stalin"
-  },
-  {
-    "id": 69,
-    "category": "Technology",
-    "question": "What year was the first iPhone released by Apple?",
-    "options": ["2005", "2007", "2009", "2010"],
-    "answer": "2007"
-  },
-  {
-    "id": 70,
-    "category": "Literature",
-    "question": "What dystopian novel by George Orwell features the totalitarian figure 'Big Brother'?",
-    "options": ["Brave New World", "Fahrenheit 451", "1984", "Animal Farm"],
-    "answer": "1984"
-  },
-  {
-    "id": 71,
-    "category": "Science",
-    "question": "What is the most abundant gas in Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "answer": "Nitrogen"
-  },
-  {
-    "id": 72,
-    "category": "Sports",
-    "question": "In American football, how many points is a touchdown worth?",
-    "options": ["3", "4", "6", "7"],
-    "answer": "6"
-  },
-  {
-    "id": 73,
-    "category": "Nature",
-    "question": "What do bees collect from flowers to make honey?",
-    "options": ["Pollen", "Nectar", "Water", "Sap"],
-    "answer": "Nectar"
-  },
-  {
-    "id": 74,
-    "category": "Geography",
-    "question": "Which country is shaped like a giant boot?",
-    "options": ["Spain", "Greece", "Italy", "France"],
-    "answer": "Italy"
-  },
-  {
-    "id": 75,
-    "category": "History",
-    "question": "Who was the ancient Egyptian queen known for her beauty and alliance with Julius Caesar and Mark Antony?",
-    "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Ankhesenamun"],
-    "answer": "Cleopatra"
-  },
-  {
-    "id": 76,
-    "category": "Science",
-    "question": "What instrument is used to measure atmospheric pressure?",
-    "options": ["Thermometer", "Barometer", "Anemometer", "Hygrometer"],
-    "answer": "Barometer"
-  },
-  {
-    "id": 77,
     "category": "Pop Culture",
     "question": "What is the name of the fictional continent where most of 'Game of Thrones' takes place?",
     "options": ["Middle-earth", "Westeros", "Narnia", "Azeroth"],
     "answer": "Westeros"
   },
   {
-    "id": 78,
-    "category": "Technology",
-    "question": "What does RAM stand for in computer memory?",
-    "options": ["Readily Accessible Memory", "Random Access Memory", "Rapid Allocation Module", "Run Application Memory"],
-    "answer": "Random Access Memory"
-  },
-  {
-    "id": 79,
-    "category": "Literature",
-    "question": "Who wrote the classic adventure novel 'Moby-Dick'?",
-    "options": ["Herman Melville", "Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"],
-    "answer": "Herman Melville"
-  },
-  {
-    "id": 80,
-    "category": "Geography",
-    "question": "What is the capital of Brazil?",
-    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
-    "answer": "Brasília"
-  },
-  {
-    "id": 81,
-    "category": "Science",
-    "question": "What subatomic particle carries a negative electrical charge?",
-    "options": ["Proton", "Neutron", "Electron", "Positron"],
-    "answer": "Electron"
-  },
-  {
-    "id": 82,
-    "category": "History",
-    "question": "Which European nation colonized Brazil starting in the 16th century?",
-    "options": ["Spain", "Portugal", "France", "Britain"],
-    "answer": "Portugal"
-  },
-  {
-    "id": 83,
-    "category": "Nature",
-    "question": "What is a group of lions called?",
-    "options": ["Pack", "Herd", "Pride", "Flock"],
-    "answer": "Pride"
-  },
-  {
-    "id": 84,
-    "category": "Music",
-    "question": "Which instrument family does the saxophone belong to?",
-    "options": ["Brass", "Woodwind", "Percussion", "String"],
-    "answer": "Woodwind"
-  },
-  {
-    "id": 85,
-    "category": "Science",
-    "question": "What is the freezing point of water in Celsius?",
-    "options": ["-10", "0", "32", "100"],
-    "answer": "0"
-  },
-  {
-    "id": 86,
+    "id": 68,
     "category": "Pop Culture",
     "question": "What is the name of the cowboy doll in Pixar's 'Toy Story'?",
     "options": ["Buzz Lightyear", "Woody", "Jessie", "Bullseye"],
     "answer": "Woody"
   },
   {
-    "id": 87,
-    "category": "Sports",
-    "question": "In which sport is the term 'love' used to indicate a score of zero?",
-    "options": ["Badminton", "Tennis", "Cricket", "Squash"],
-    "answer": "Tennis"
-  },
-  {
-    "id": 88,
-    "category": "Technology",
-    "question": "Who is widely credited with inventing the World Wide Web in 1989?",
-    "options": ["Tim Berners-Lee", "Vint Cerf", "Alan Turing", "Bill Gates"],
-    "answer": "Tim Berners-Lee"
-  },
-  {
-    "id": 89,
-    "category": "Literature",
-    "question": "Which author created the famous detective Sherlock Holmes?",
-    "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Raymond Chandler"],
-    "answer": "Arthur Conan Doyle"
-  },
-  {
-    "id": 90,
-    "category": "Geography",
-    "question": "What is the highest mountain in Africa?",
-    "options": ["Mount Kenya", "Mount Kilimanjaro", "Mount Elgon", "Atlas Mountains"],
-    "answer": "Mount Kilimanjaro"
-  },
-  {
-    "id": 91,
-    "category": "Science",
-    "question": "What is the chemical symbol for iron?",
-    "options": ["Ir", "In", "Fe", "F"],
-    "answer": "Fe"
-  },
-  {
-    "id": 92,
-    "category": "History",
-    "question": "What year did the American Declaration of Independence get adopted?",
-    "options": ["1774", "1776", "1781", "1789"],
-    "answer": "1776"
-  },
-  {
-    "id": 93,
-    "category": "Nature",
-    "question": "What is the only mammal capable of true, sustained flight?",
-    "options": ["Flying Squirrel", "Bat", "Sugar Glider", "Lemur"],
-    "answer": "Bat"
-  },
-  {
-    "id": 94,
-    "category": "Art",
-    "question": "Which Spanish artist co-founded the Cubist movement?",
-    "options": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Diego Velázquez"],
-    "answer": "Pablo Picasso"
-  },
-  {
-    "id": 95,
-    "category": "Science",
-    "question": "What vitamin do humans primarily absorb from sunlight?",
-    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
-    "answer": "Vitamin D"
-  },
-  {
-    "id": 96,
+    "id": 69,
     "category": "Pop Culture",
     "question": "In the Star Wars franchise, what is the real name of Darth Vader before he turns to the dark side?",
     "options": ["Obi-Wan Kenobi", "Anakin Skywalker", "Luke Skywalker", "Qui-Gon Jinn"],
     "answer": "Anakin Skywalker"
   },
   {
+    "id": 70,
+    "category": "Pop Culture",
+    "question": "Which animated ogre lives in a swamp with his sidekick Donkey?",
+    "options": ["Gaston", "Shrek", "Hulk", "Maui"],
+    "answer": "Shrek"
+  },
+  {
+    "id": 71,
+    "category": "Pop Culture",
+    "question": "What is the name of the coffee shop where the characters hang out in the TV show 'Friends'?",
+    "options": ["Central Perk", "Monk's Café", "The Max", "Paddy's Pub"],
+    "answer": "Central Perk"
+  },
+  {
+    "id": 72,
+    "category": "Pop Culture",
+    "question": "Which toy line features plastic interlocking bricks manufactured by a Danish company?",
+    "options": ["Playmobil", "Lego", "K'NEX", "Meccano"],
+    "answer": "Lego"
+  },
+  {
+    "id": 73,
+    "category": "Pop Culture",
+    "question": "What is the name of Ash Ketchum's loyal electric mouse partner in Pokémon?",
+    "options": ["Charmander", "Squirtle", "Pikachu", "Bulbasaur"],
+    "answer": "Pikachu"
+  },
+  {
+    "id": 74,
+    "category": "Pop Culture",
+    "question": "In the movie 'Jurassic Park', what prehistoric creature is the main genetically engineered attraction?",
+    "options": ["Tyrannosaurus Rex", "Velociraptor", "Indominus Rex", "Triceratops"],
+    "answer": "Indominus Rex"
+  },
+  {
+    "id": 75,
+    "category": "Pop Culture",
+    "question": "What is the name of the hobbit played by Elijah Wood in Peter Jackson's film trilogy?",
+    "options": ["Bilbo Baggins", "Frodo Baggins", "Pippin Took", "Merry Brandybuck"],
+    "answer": "Frodo Baggins"
+  },
+  {
+    "id": 76,
+    "category": "Pop Culture",
+    "question": "Which streaming service released the hit sci-fi retro series 'Stranger Things'?",
+    "options": ["Hulu", "Amazon Prime", "Netflix", "Disney+"],
+    "answer": "Netflix"
+  },
+  {
+    "id": 77,
+    "category": "Pop Culture",
+    "question": "What is the name of the fictional town in Indiana where 'Stranger Things' is set?",
+    "options": ["Springfield", "Hawkins", "Riverdale", "Sunnydale"],
+    "answer": "Hawkins"
+  },
+  {
+    "id": 78,
+    "category": "Pop Culture",
+    "question": "In the Harry Potter series, what is the name of Harry's pet snowy owl?",
+    "options": ["Crookshanks", "Scabbers", "Hedwig", "Fang"],
+    "answer": "Hedwig"
+  },
+  {
+    "id": 79,
+    "category": "Pop Culture",
+    "question": "What is the real name of the superhero Iron Man?",
+    "options": ["Steve Rogers", "Bruce Banner", "Tony Stark", "Peter Parker"],
+    "answer": "Tony Stark"
+  },
+  {
+    "id": 80,
+    "category": "Pop Culture",
+    "question": "Which animated Disney film features a young lion prince named Simba?",
+    "options": ["Aladdin", "The Lion King", "Tarzan", "Hercules"],
+    "answer": "The Lion King"
+  },
+  {
+    "id": 81,
+    "category": "Nature",
+    "question": "What is the fastest land animal on Earth?",
+    "options": ["Lion", "Pronghorn", "Cheetah", "Gazelle"],
+    "answer": "Cheetah"
+  },
+  {
+    "id": 82,
+    "category": "Nature",
+    "question": "What is the tallest tree species in the world?",
+    "options": ["Oak", "Pine", "Redwood", "Maple"],
+    "answer": "Redwood"
+  },
+  {
+    "id": 83,
+    "category": "Nature",
+    "question": "What is a baby kangaroo called?",
+    "options": ["Cub", "Calf", "Joey", "Pup"],
+    "answer": "Joey"
+  },
+  {
+    "id": 84,
+    "category": "Nature",
+    "question": "What is the primary diet of a giant panda?",
+    "options": ["Meat", "Bamboo", "Insects", "Fish"],
+    "answer": "Bamboo"
+  },
+  {
+    "id": 85,
+    "category": "Nature",
+    "question": "What animal is known as the 'Ship of the Desert'?",
+    "options": ["Elephant", "Horse", "Camel", "Donkey"],
+    "answer": "Camel"
+  },
+  {
+    "id": 86,
+    "category": "Nature",
+    "question": "What is the largest mammal on Earth?",
+    "options": ["African Elephant", "Blue Whale", "Sperm Whale", "Giraffe"],
+    "answer": "Blue Whale"
+  },
+  {
+    "id": 87,
+    "category": "Nature",
+    "question": "Which flightless bird is native to New Zealand and shares its name with a fruit?",
+    "options": ["Cassowary", "Emu", "Kiwi", "Penguin"],
+    "answer": "Kiwi"
+  },
+  {
+    "id": 88,
+    "category": "Nature",
+    "question": "What do bees collect from flowers to make honey?",
+    "options": ["Pollen", "Nectar", "Water", "Sap"],
+    "answer": "Nectar"
+  },
+  {
+    "id": 89,
+    "category": "Nature",
+    "question": "What is a group of lions called?",
+    "options": ["Pack", "Herd", "Pride", "Flock"],
+    "answer": "Pride"
+  },
+  {
+    "id": 90,
+    "category": "Nature",
+    "question": "What is the only mammal capable of true, sustained flight?",
+    "options": ["Flying Squirrel", "Bat", "Sugar Glider", "Lemur"],
+    "answer": "Bat"
+  },
+  {
+    "id": 91,
+    "category": "Nature",
+    "question": "Which animal is known to change its skin color for camouflage?",
+    "options": ["Frog", "Chameleon", "Snake", "Iguana"],
+    "answer": "Chameleon"
+  },
+  {
+    "id": 92,
+    "category": "Nature",
+    "question": "What is the hardest naturally occurring mineral on Earth?",
+    "options": ["Quartz", "Topaz", "Diamond", "Corundum"],
+    "answer": "Diamond"
+  },
+  {
+    "id": 93,
+    "category": "Nature",
+    "question": "Which marine mammal is famous for having thick blubber and tusks?",
+    "options": ["Dolphin", "Walrus", "Seal", "Manatee"],
+    "answer": "Walrus"
+  },
+  {
+    "id": 94,
+    "category": "Nature",
+    "question": "What bird is universally recognized as a symbol of peace?",
+    "options": ["Eagle", "Dove", "Swan", "Hawk"],
+    "answer": "Dove"
+  },
+  {
+    "id": 95,
+    "category": "Nature",
+    "question": "What is the largest species of bear in the world?",
+    "options": ["Grizzly Bear", "Polar Bear", "Black Bear", "Panda Bear"],
+    "answer": "Polar Bear"
+  },
+  {
+    "id": 96,
+    "category": "Nature",
+    "question": "Which insect is known for producing silk from its cocoons?",
+    "options": ["Spider", "Silkworm", "Caterpillar", "Bee"],
+    "answer": "Silkworm"
+  },
+  {
     "id": 97,
-    "category": "Geography",
-    "question": "Through how many countries does the Amazon River flow?",
-    "options": ["3", "5", "9", "12"],
-    "answer": "9"
+    "category": "Nature",
+    "question": "What is the longest venomous snake in the world?",
+    "options": ["Black Mamba", "King Cobra", "Rattlesnake", "Anaconda"],
+    "answer": "King Cobra"
   },
   {
     "id": 98,
-    "category": "History",
-    "question": "Who was the first emperor of the Roman Empire?",
-    "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
-    "answer": "Augustus"
+    "category": "Nature",
+    "question": "Which African animal has a pattern of black and white stripes unique to each individual?",
+    "options": ["Giraffe", "Cheetah", "Zebra", "Hippopotamus"],
+    "answer": "Zebra"
   },
   {
     "id": 99,
+    "category": "Nature",
+    "question": "What is the process by which a caterpillar transforms into a butterfly called?",
+    "options": ["Metamorphosis", "Photosynthesis", "Germination", "Pollination"],
+    "answer": "Metamorphosis"
+  },
+  {
+    "id": 100,
+    "category": "Nature",
+    "question": "Which large cat is native to the Americas and has black rosettes on its coat?",
+    "options": ["Tiger", "Lion", "Leopard", "Jaguar"],
+    "answer": "Jaguar"
+  },
+  {
+    "id": 101,
+    "category": "Technology",
+    "question": "What does 'HTTP' stand for in website addresses?",
+    "options": ["HyperText Transfer Protocol", "High Transfer Text Program", "Hyperlink Transmission Test Protocol", "HyperText Technical Process"],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 102,
+    "category": "Technology",
+    "question": "Who co-founded Apple Computer alongside Steve Wozniak?",
+    "options": ["Bill Gates", "Steve Jobs", "Mark Zuckerberg", "Jeff Bezos"],
+    "answer": "Steve Jobs"
+  },
+  {
+    "id": 103,
+    "category": "Technology",
+    "question": "What does CPU stand for in computer hardware?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Core Processing Utility"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 104,
+    "category": "Technology",
+    "question": "Which programming language shares its name with a type of snake?",
+    "options": ["Java", "Python", "C++", "Ruby"],
+    "answer": "Python"
+  },
+  {
+    "id": 105,
+    "category": "Technology",
+    "question": "What does 'WWW' stand for in computer networking?",
+    "options": ["World Wide Web", "Wide Web World", "Web World Wide", "World Wide Wireless"],
+    "answer": "World Wide Web"
+  },
+  {
+    "id": 106,
+    "category": "Technology",
+    "question": "What company developed the Windows operating system?",
+    "options": ["Apple", "IBM", "Microsoft", "Google"],
+    "answer": "Microsoft"
+  },
+  {
+    "id": 107,
+    "category": "Technology",
+    "question": "What year was the first iPhone released by Apple?",
+    "options": ["2005", "2007", "2009", "2010"],
+    "answer": "2007"
+  },
+  {
+    "id": 108,
+    "category": "Technology",
+    "question": "What does RAM stand for in computer memory?",
+    "options": ["Readily Accessible Memory", "Random Access Memory", "Rapid Allocation Module", "Run Application Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": 109,
+    "category": "Technology",
+    "question": "Who is widely credited with inventing the World Wide Web in 1989?",
+    "options": ["Tim Berners-Lee", "Vint Cerf", "Alan Turing", "Bill Gates"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": 110,
     "category": "Technology",
     "question": "What does USB stand for in computer hardware connections?",
     "options": ["Universal Serial Bus", "Unified System Board", "Universal Storage Block", "Utility Serial Bridge"],
     "answer": "Universal Serial Bus"
   },
   {
-    "id": 100,
+    "id": 111,
+    "category": "Technology",
+    "question": "Which company created the Android mobile operating system?",
+    "options": ["Apple", "Microsoft", "Google", "BlackBerry"],
+    "answer": "Google"
+  },
+  {
+    "id": 112,
+    "category": "Technology",
+    "question": "What is the main function of a computer's GPU?",
+    "options": ["Handling graphics and image rendering", "Managing disk storage", "Processing network packets", "Supplying power"],
+    "answer": "Handling graphics and image rendering"
+  },
+  {
+    "id": 113,
+    "category": "Technology",
+    "question": "What does HTML stand for in web development?",
+    "options": ["HyperText Markup Language", "High Transfer Machine Language", "Hyperlink Text Management Language", "Home Tool Multi-Language"],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 114,
+    "category": "Technology",
+    "question": "Who is often called the father of modern computing for his work on the Enigma machine and codebreaking?",
+    "options": ["Thomas Edison", "Alan Turing", "Nikola Tesla", "Alexander Graham Bell"],
+    "answer": "Alan Turing"
+  },
+  {
+    "id": 115,
+    "category": "Technology",
+    "question": "What does Wi-Fi stand for according to most tech standards?",
+    "options": ["Wireless Fidelity", "Wide Field", "Wave Filter", "It doesn't stand for anything (marketing term)"],
+    "answer": "It doesn't stand for anything (marketing term)"
+  },
+  {
+    "id": 116,
+    "category": "Technology",
+    "question": "What type of storage device uses flash memory with no moving parts?",
+    "options": ["Hard Disk Drive (HDD)", "Solid State Drive (SSD)", "Floppy Disk", "Compact Disc"],
+    "answer": "Solid State Drive (SSD)"
+  },
+  {
+    "id": 117,
+    "category": "Technology",
+    "question": "Which social media platform was originally launched under the name 'Thefacebook' in 2004?",
+    "options": ["Twitter", "Instagram", "Facebook", "LinkedIn"],
+    "answer": "Facebook"
+  },
+  {
+    "id": 118,
+    "category": "Technology",
+    "question": "What unit of data storage is equal to 1,024 megabytes?",
+    "options": ["Kilobyte", "Gigabyte", "Terabyte", "Petabyte"],
+    "answer": "Gigabyte"
+  },
+  {
+    "id": 119,
+    "category": "Technology",
+    "question": "What does PDF stand for in digital document formats?",
+    "options": ["Portable Document Format", "Personal Data File", "Printed Digital File", "Public Document Form"],
+    "answer": "Portable Document Format"
+  },
+  {
+    "id": 120,
+    "category": "Technology",
+    "question": "What open-source operating system kernel was created by Linus Torvalds in 1991?",
+    "options": ["Windows", "Linux", "macOS", "Unix"],
+    "answer": "Linux"
+  },
+  {
+    "id": 121,
+    "category": "Literature",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 122,
+    "category": "Literature",
+    "question": "Who wrote the 'Harry Potter' book series?",
+    "options": ["J.R.R. Tolkien", "J.K. Rowling", "C.S. Lewis", "Stephen King"],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": 123,
+    "category": "Literature",
+    "question": "Who wrote 'The Hobbit'?",
+    "options": ["J.R.R. Tolkien", "George R.R. Martin", "C.S. Lewis", "Roald Dahl"],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": 124,
+    "category": "Literature",
+    "question": "Who wrote the classic novel 'Pride and Prejudice'?",
+    "options": ["Charlotte Brontë", "Jane Austen", "Emily Brontë", "Virginia Woolf"],
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 125,
+    "category": "Literature",
+    "question": "What dystopian novel by George Orwell features the totalitarian figure 'Big Brother'?",
+    "options": ["Brave New World", "Fahrenheit 451", "1984", "Animal Farm"],
+    "answer": "1984"
+  },
+  {
+    "id": 126,
+    "category": "Literature",
+    "question": "Who wrote the classic adventure novel 'Moby-Dick'?",
+    "options": ["Herman Melville", "Mark Twain", "Nathaniel Hawthorne", "Edgar Allan Poe"],
+    "answer": "Herman Melville"
+  },
+  {
+    "id": 127,
+    "category": "Literature",
+    "question": "Which author created the famous detective Sherlock Holmes?",
+    "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Raymond Chandler"],
+    "answer": "Arthur Conan Doyle"
+  },
+  {
+    "id": 128,
     "category": "Literature",
     "question": "Who wrote the epic fantasy novel 'The Lord of the Rings'?",
     "options": ["C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin", "Roald Dahl"],
     "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": 129,
+    "category": "Literature",
+    "question": "Who wrote the novel 'Great Expectations'?",
+    "options": ["Charles Dickens", "Jane Austen", "Mark Twain", "Leo Tolstoy"],
+    "answer": "Charles Dickens"
+  },
+  {
+    "id": 130,
+    "category": "Literature",
+    "question": "What American author wrote 'The Adventures of Tom Sawyer'?",
+    "options": ["Ernest Hemingway", "Mark Twain", "F. Scott Fitzgerald", "John Steinbeck"],
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 131,
+    "category": "Literature",
+    "question": "Which Gothic novel written by Mary Shelley features a scientist who creates a monster?",
+    "options": ["Dracula", "Frankenstein", "The Strange Case of Dr. Jekyll and Mr. Hyde", "The Picture of Dorian Gray"],
+    "answer": "Frankenstein"
+  },
+  {
+    "id": 132,
+    "category": "Literature",
+    "question": "Who wrote the tragedy play 'Macbeth'?",
+    "options": ["Christopher Marlowe", "William Shakespeare", "John Milton", "Geoffrey Chaucer"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 133,
+    "category": "Literature",
+    "question": "What epic poem by Homer details the Greek siege of the city of Troy?",
+    "options": ["The Odyssey", "The Iliad", "The Aeneid", "Beowulf"],
+    "answer": "The Iliad"
+  },
+  {
+    "id": 134,
+    "category": "Literature",
+    "question": "Who is the author of the Pulitzer Prize-winning novel 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "Toni Morrison", "Maya Angelou", "Alice Walker"],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": 135,
+    "category": "Literature",
+    "question": "Which dystopian novel by Ray Bradbury describes a future where books are outlawed and burned?",
+    "options": ["1984", "Brave New World", "Fahrenheit 451", "The Handmaid's Tale"],
+    "answer": "Fahrenheit 451"
+  },
+  {
+    "id": 136,
+    "category": "Literature",
+    "question": "Who wrote the detective novel 'And Then There Were None' and created Hercule Poirot?",
+    "options": ["Arthur Conan Doyle", "Agatha Christie", "Gillian Flynn", "Dan Brown"],
+    "answer": "Agatha Christie"
+  },
+  {
+    "id": 137,
+    "category": "Literature",
+    "question": "What classic American novel features the enigmatic millionaire Jay Gatsby?",
+    "options": ["The Great Gatsby", "The Catcher in the Rye", "The Grapes of Wrath", "Little Women"],
+    "answer": "The Great Gatsby"
+  },
+  {
+    "id": 138,
+    "category": "Literature",
+    "question": "Who wrote the fantasy series 'The Chronicles of Narnia'?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "Roald Dahl", "Philip Pullman"],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "id": 139,
+    "category": "Literature",
+    "question": "What famous Russian author wrote 'War and Peace'?",
+    "options": ["Fyodor Dostoevsky", "Anton Chekhov", "Leo Tolstoy", "Alexander Pushkin"],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": 140,
+    "category": "Literature",
+    "question": "Who wrote the children's fantasy novel 'Charlie and the Chocolate Factory'?",
+    "options": ["Dr. Seuss", "Roald Dahl", "E.B. White", "Beatrix Potter"],
+    "answer": "Roald Dahl"
+  },
+  {
+    "id": 141,
+    "category": "Sports",
+    "question": "How many players are on the field for a soccer team during a match?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11"
+  },
+  {
+    "id": 142,
+    "category": "Sports",
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Tennis", "Basketball", "Golf", "Baseball"],
+    "answer": "Basketball"
+  },
+  {
+    "id": 143,
+    "category": "Sports",
+    "question": "How many holes are played in a standard round of golf?",
+    "options": ["9", "12", "18", "21"],
+    "answer": "18"
+  },
+  {
+    "id": 144,
+    "category": "Sports",
+    "question": "How many players are on the ice for one team in an ice hockey game (excluding the goalie)?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "id": 145,
+    "category": "Sports",
+    "question": "In American football, how many points is a touchdown worth?",
+    "options": ["3", "4", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "id": 146,
+    "category": "Sports",
+    "question": "In which sport is the term 'love' used to indicate a score of zero?",
+    "options": ["Badminton", "Tennis", "Cricket", "Squash"],
+    "answer": "Tennis"
+  },
+  {
+    "id": 147,
+    "category": "Sports",
+    "question": "Which country hosts the annual tennis tournament known as Wimbledon?",
+    "options": ["United States", "France", "Australia", "United Kingdom"],
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 148,
+    "category": "Sports",
+    "question": "How many players are on a standard baseball team on the field at one time?",
+    "options": ["7", "9", "11", "13"],
+    "answer": "9"
+  },
+  {
+    "id": 149,
+    "category": "Sports",
+    "question": "What is the maximum score possible in a single frame of ten-pin bowling?",
+    "options": ["10", "20", "30", "50"],
+    "answer": "30"
+  },
+  {
+    "id": 150,
+    "category": "Sports",
+    "question": "Which sport uses a puck instead of a ball?",
+    "options": ["Field Hockey", "Ice Hockey", "Lacrosse", "Polo"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "id": 151,
+    "category": "Sports",
+    "question": "What piece of equipment is used to strike the ball in baseball?",
+    "options": ["Club", "Racket", "Bat", "Mallet"],
+    "answer": "Bat"
+  },
+  {
+    "id": 152,
+    "category": "Sports",
+    "question": "How many minutes long is a standard professional soccer match (excluding extra time)?",
+    "options": ["80 minutes", "90 minutes", "100 minutes", "120 minutes"],
+    "answer": "90 minutes"
+  },
+  {
+    "id": 153,
+    "category": "Sports",
+    "question": "In which sport do competitors race down a track on a bobsled?",
+    "options": ["Summer Olympics", "Winter Olympics", "X Games", "Commonwealth Games"],
+    "answer": "Winter Olympics"
+  },
+  {
+    "id": 154,
+    "category": "Sports",
+    "question": "What is the length of a standard Olympic swimming pool in meters?",
+    "options": ["25 meters", "50 meters", "100 meters", "200 meters"],
+    "answer": "50 meters"
+  },
+  {
+    "id": 155,
+    "category": "Sports",
+    "question": "Which country won the FIFA World Cup in soccer in the year 2018?",
+    "options": ["Brazil", "Germany", "France", "Argentina"],
+    "answer": "France"
+  },
+  {
+    "id": 156,
+    "category": "Sports",
+    "question": "In boxing, what is the term for knocking out an opponent so they cannot rise within 10 seconds?",
+    "options": ["Technical Knockout", "Knockout (KO)", "Submission", "Foul"],
+    "answer": "Knockout (KO)"
+  },
+  {
+    "id": 157,
+    "category": "Sports",
+    "question": "Which sport features events like the vault, balance beam, and uneven bars?",
+    "options": ["Figure Skating", "Gymnastics", "Track and Field", "Diving"],
+    "answer": "Gymnastics"
+  },
+  {
+    "id": 158,
+    "category": "Sports",
+    "question": "How many players are on the court for a single basketball team during a game?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "id": 159,
+    "category": "Sports",
+    "question": "What color card does a referee show a soccer player to eject them from the match?",
+    "options": ["Yellow card", "Red card", "Blue card", "Green card"],
+    "answer": "Red card"
+  },
+  {
+    "id": 160,
+    "category": "Sports",
+    "question": "Which sporting event is known as the world's most famous bicycle race?",
+    "options": ["Giro d'Italia", "Tour de France", "Vuelta a España", "Paris-Roubaix"],
+    "answer": "Tour de France"
+  },
+  {
+    "id": 161,
+    "category": "Music",
+    "question": "Which band released the hit song 'Bohemian Rhapsody'?",
+    "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+    "answer": "Queen"
+  },
+  {
+    "id": 162,
+    "category": "Music",
+    "question": "How many strings does a standard guitar have?",
+    "options": ["4", "5", "6", "8"],
+    "answer": "6"
+  },
+  {
+    "id": 163,
+    "category": "Music",
+    "question": "Which classical composer became completely deaf later in life?",
+    "options": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Frédéric Chopin"],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": 164,
+    "category": "Music",
+    "question": "Which instrument family does the saxophone belong to?",
+    "options": ["Brass", "Woodwind", "Percussion", "String"],
+    "answer": "Woodwind"
+  },
+  {
+    "id": 165,
+    "category": "Music",
+    "question": "Who is often referred to as the 'King of Pop'?",
+    "options": ["Elvis Presley", "Prince", "Michael Jackson", "Stevie Wonder"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 166,
+    "category": "Music",
+    "question": "Which music icon released the multi-platinum album 'Thriller' in 1982?",
+    "options": ["Prince", "Madonna", "Michael Jackson", "David Bowie"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 167,
+    "category": "Music",
+    "question": "How many members were in the legendary British rock band The Beatles?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "id": 168,
+    "category": "Music",
+    "question": "What musical instrument has 88 keys?",
+    "options": ["Organ", "Piano", "Harpsichord", "Synthesizer"],
+    "answer": "Piano"
+  },
+  {
+    "id": 169,
+    "category": "Music",
+    "question": "Which legendary reggae artist popularized Jamaican music worldwide?",
+    "options": ["Jimmy Cliff", "Bob Marley", "Peter Tosh", "Sean Paul"],
+    "answer": "Bob Marley"
+  },
+  {
+    "id": 170,
+    "category": "Music",
+    "question": "What family of instruments does the violin belong to?",
+    "options": ["String", "Woodwind", "Percussion", "Brass"],
+    "answer": "String"
+  },
+  {
+    "id": 171,
+    "category": "Music",
+    "question": "Who is known as the 'King of Rock and Roll'?",
+    "options": ["Chuck Berry", "Elvis Presley", "Little Richard", "Buddy Holly"],
+    "answer": "Elvis Presley"
+  },
+  {
+    "id": 172,
+    "category": "Music",
+    "question": "Which legendary rock band released the famous album 'The Dark Side of the Moon'?",
+    "options": ["Led Zeppelin", "The Rolling Stones", "Pink Floyd", "The Who"],
+    "answer": "Pink Floyd"
+  },
+  {
+    "id": 173,
+    "category": "Music",
+    "question": "What musical term indicates a very loud volume?",
+    "options": ["Piano", "Forte", "Allegro", "Adagio"],
+    "answer": "Forte"
+  },
+  {
+    "id": 174,
+    "category": "Music",
+    "question": "Which brass instrument features a long sliding tube instead of valves?",
+    "options": ["Trumpet", "Trombone", "Tuba", "French Horn"],
+    "answer": "Trombone"
+  },
+  {
+    "id": 175,
+    "category": "Music",
+    "question": "What country is credited with originating reggae music?",
+    "options": ["Brazil", "Jamaica", "Trinidad", "Cuba"],
+    "answer": "Jamaica"
+  },
+  {
+    "id": 176,
+    "category": "Music",
+    "question": "Who composed the famous classical piece 'The Four Seasons'?",
+    "options": ["Johann Sebastian Bach", "Antonio Vivaldi", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven"],
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "id": 177,
+    "category": "Music",
+    "question": "What pop star is known as the 'Queen of Pop'?",
+    "options": ["Whitney Houston", "Cher", "Madonna", "Mariah Carey"],
+    "answer": "Madonna"
+  },
+  {
+    "id": 178,
+    "category": "Music",
+    "question": "Which percussion instrument consists of wooden bars struck with mallets?",
+    "options": ["Xylophone", "Snare Drum", "Cymbal", "Tambourine"],
+    "answer": "Xylophone"
+  },
+  {
+    "id": 179,
+    "category": "Music",
+    "question": "What genre of music originated in New Orleans in the early 20th century?",
+    "options": ["Jazz", "Country", "Techno", "Grunge"],
+    "answer": "Jazz"
+  },
+  {
+    "id": 180,
+    "category": "Music",
+    "question": "Which iconic British rock band performed the legendary 1965 stadium concert at Shea Stadium?",
+    "options": ["The Rolling Stones", "The Beatles", "The Kinks", "The Animals"],
+    "answer": "The Beatles"
+  },
+  {
+    "id": 181,
+    "category": "Art",
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 182,
+    "category": "Art",
+    "question": "Which artist painted 'The Starry Night'?",
+    "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Salvador Dalí"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 183,
+    "category": "Art",
+    "question": "Who sculpted the famous marble statue of David in the 16th century?",
+    "options": ["Donatello", "Michelangelo", "Raphael", "Leonardo da Vinci"],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 184,
+    "category": "Art",
+    "question": "Which Spanish artist co-founded the Cubist movement?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Diego Velázquez"],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 185,
+    "category": "Art",
+    "question": "Which art movement is Salvador Dalí most famously associated with?",
+    "options": ["Impressionism", "Surrealism", "Realism", "Baroque"],
+    "answer": "Surrealism"
+  },
+  {
+    "id": 186,
+    "category": "Art",
+    "question": "In what museum in Paris can you find the Mona Lisa?",
+    "options": ["The Louvre", "Musée d'Orsay", "Centre Pompidou", "The Met"],
+    "answer": "The Louvre"
+  },
+  {
+    "id": 187,
+    "category": "Art",
+    "question": "What Dutch post-impressionist painter cut off a portion of his own ear?",
+    "options": ["Claude Monet", "Rembrandt", "Vincent van Gogh", "Johannes Vermeer"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 188,
+    "category": "Art",
+    "question": "Which painter is famous for his melting clock paintings, such as 'The Persistence of Memory'?",
+    "options": ["Pablo Picasso", "Salvador Dalí", "Henri Matisse", "Jackson Pollock"],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": 189,
+    "category": "Art",
+    "question": "What technique involves painting on wet plaster walls, famously used by Michelangelo on the Sistine Chapel?",
+    "options": ["Mosaics", "Fresco", "Oil on canvas", "Tempera"],
+    "answer": "Fresco"
+  },
+  {
+    "id": 190,
+    "category": "Art",
+    "question": "Who painted the iconic impressionist work 'Water Lilies'?",
+    "options": ["Claude Monet", "Edgar Degas", "Paul Cézanne", "Pierre-Auguste Renoir"],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 191,
+    "category": "Art",
+    "question": "Which famous artist created the monumental anti-war painting 'Guernica'?",
+    "options": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Francisco Goya"],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 192,
+    "category": "Art",
+    "question": "What artistic style utilizes dots of pure color that optically mix from a distance?",
+    "options": ["Pointillism", "Cubism", "Realism", "Surrealism"],
+    "answer": "Pointillism"
+  },
+  {
+    "id": 193,
+    "category": "Art",
+    "question": "Who painted the famous Dutch Golden Age masterpiece 'Girl with a Pearl Earring'?",
+    "options": ["Rembrandt van Rijn", "Johannes Vermeer", "Frans Hals", "Jan Steen"],
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "id": 194,
+    "category": "Art",
+    "question": "What American painter is famous for her large-scale depictions of magnified flowers?",
+    "options": ["Mary Cassatt", "Georgia O'Keeffe", "Frida Kahlo", "Lee Krasner"],
+    "answer": "Georgia O'Keeffe"
+  },
+  {
+    "id": 195,
+    "category": "Art",
+    "question": "Which iconic Mexican surrealist painter is known for her many striking self-portraits?",
+    "options": ["Frida Kahlo", "Remedios Varo", "Leonora Carrington", "Diego Rivera"],
+    "answer": "Frida Kahlo"
+  },
+  {
+    "id": 196,
+    "category": "Art",
+    "question": "What term describes the technique of creating sculptures by carving blocks of material?",
+    "options": ["Additive", "Subtractive", "Cast", "Assemble"],
+    "answer": "Subtractive"
+  },
+  {
+    "id": 197,
+    "category": "Art",
+    "question": "Who created the famous abstract expressionist drip-painting technique?",
+    "options": ["Andy Warhol", "Jackson Pollock", "Mark Rothko", "Wassily Kandinsky"],
+    "answer": "Jackson Pollock"
+  },
+  {
+    "id": 198,
+    "category": "Art",
+    "question": "Which art movement popularized everyday commercial goods and celebrity culture as subject matter in the 1950s and 60s?",
+    "options": ["Pop Art", "Baroque", "Impressionism", "Renaissance"],
+    "answer": "Pop Art"
+  },
+  {
+    "id": 199,
+    "category": "Art",
+    "question": "What Italian Renaissance master painted 'The School of Athens' in the Vatican?",
+    "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+    "answer": "Raphael"
+  },
+  {
+    "id": 200,
+    "category": "Art",
+    "question": "Which French impressionist painter is famous for capturing dancers and ballet rehearsals?",
+    "options": ["Claude Monet", "Edgar Degas", "Camille Pissarro", "Paul Cézanne"],
+    "answer": "Edgar Degas"
   }
 ]

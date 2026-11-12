@@ -9,7 +9,7 @@ print("Do you wish to indulge me?")
 answer = input("Answer only yes or no: ")
 
 while True:
-    if answer == "yes":
+    if answer.lower() == "yes":
         with open("questions.json", "r") as file:
             questions_data = json.load(file)
             
@@ -43,12 +43,12 @@ while True:
                 #get user choice
                 user_choice = input("Enter your answer: ")
                 correct_answer = q["answer"] 
-                if user_choice.lower() == correct_answer.lower():
+                if user_choice.lower() == correct_answer:
                     print("That is correct!!!")
                     score += 1
                 else: 
                     print(f"That is incorrect!!, ")
-                    print(f"The correct answers are {correct_answer}")
+                    print(f"The correct answer is {correct_answer}")
             
 
                 if question_number == 11:

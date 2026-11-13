@@ -1,6 +1,7 @@
 import json
 import random
 score = 0
+correct_answers =[]
 
 print("Hello user, what is your name?")
 name = input("Enter your name: ")
@@ -42,14 +43,16 @@ while True:
                 question_number += 1      
                 #get user choice
                 user_choice = input("Enter your answer: ")
-                correct_answer = q["answer"] 
+                correct_answer = q["answer"]
                 if user_choice.lower() == correct_answer:
                     print("That is correct!!!")
                     score += 1
+                    correct_answers.append(q["question"])  
                 else: 
                     print(f"That is incorrect!!, ")
                     print(f"The correct answer is {correct_answer}")
-            
+                    correct_answers.append(q["answer"])    
+                              
 
                 if question_number == 11:
                     break
@@ -65,7 +68,9 @@ print(f"Your Final Score: {score}/10")
 if score == 10:
     print("That is very good, you had a perfect score!!")
 else :
-    print("Hats off for the attempt, there is always next time.")
+    print('The summary of the correct answers are: ')
+    for correct_answer in correct_answers:
+        print("-", correct_answer)
 
     
 

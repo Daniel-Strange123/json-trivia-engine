@@ -44,10 +44,10 @@ while True:
                 #get user choice
                 user_choice = input("Enter your answer: ")
                 correct_answer = q["answer"]
-                if user_choice.lower() == correct_answer:
+                if user_choice.lower().strip() == correct_answer:
                     print("That is correct!!!")
-                    score += 1
-                    correct_answers.append(q["question"])  
+                    score += 1  
+                    correct_answers.append(q["question"])
                 else: 
                     print(f"That is incorrect!!, ")
                     print(f"The correct answer is {correct_answer}")
